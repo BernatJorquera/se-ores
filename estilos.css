@@ -10,6 +10,10 @@ main {
   padding: 0 15px;
   width:100%;
 }
+.boton-marcar {
+  text-decoration: none;
+  color: black;
+}
 @media (min-width: 1200px) {
   main {
     width: 1140px;
