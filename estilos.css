@@ -1,0 +1,17 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #c0eec0;
+  margin:0px;
+  display:flex;
+  align-items: center;
+}
+main {
+  box-sizing: border-box;
+  padding: 0 15px;
+  width:100%;
+}
+@media (min-width: 1200px) {
+  main {
+    width: 1140px;
+  }
+}
